@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "to prictice node.js knowledge ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bek-shoyatbekov/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "ts"
+  ],
+  "author": "Bek shoyatbekov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bek-shoyatbekov/nodejs/issues"
+  },
+  "homepage": "https://github.com/bek-shoyatbekov/nodejs#readme"
+}
